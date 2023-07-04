@@ -1,0 +1,1 @@
+#This application/game displays anew inspirational quote each time the browser refresh or each time the program is loaded
